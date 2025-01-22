@@ -34,7 +34,6 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```sh
    git clone https://github.com/your-username/rahul5403-chatting_app_mern.git
-   cd rahul5403-chatting_app_mern
    ```
 
 2. **Setup the backend**
