@@ -33,7 +33,7 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/rahul5403-chatting_app_mern.git
+   git clone https://github.com/akash66219/Real-Time-Chat-Application.git
    ```
 
 2. **Setup the backend**
@@ -49,9 +49,6 @@ Ensure you have the following installed:
    npm install
    npm run dev
    ```
-
-4. **Run the application**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Environment Variables
 Create a `.env` file in the `backend` directory and add the following:
